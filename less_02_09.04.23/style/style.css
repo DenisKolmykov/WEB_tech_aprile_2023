@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612756181_20-p-fon-goluboi-tekhno-26.jpg);
+    text-align: center;
+    color: rgb(210, 245, 245);
+    text-shadow: 3px 1px rgb(43, 42, 42);
+
+}
+td, th{
+    text-align: center;
+    color: rgb(252, 203, 125);
+}
+ul , ol{
+    color: rgb(252, 203, 125);
+    text-align: center;
+}
