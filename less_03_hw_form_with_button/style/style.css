@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612756181_20-p-fon-goluboi-tekhno-26.jpg);
+    text-align: center;
+    color: rgb(210, 245, 245);
+    text-shadow: 3px 1px rgb(43, 42, 42);
+
+}
+table{
+    text-align: center;
+    color: rgb(252, 203, 125);
+}
+
+::placeholder{
+    color: rgb(255, 127, 244);
+}
+button{
+    padding: 0 24px;
+    margin: 0;
+    height: 30px;
+    background-color: rgb(226, 43, 186);
+    color: rgb(236, 247, 202);
+    border-radius: 10px; /*Скругление краев кнопки */
+}
+input{
+    text-align: center;
+    font-family: cursive;
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    height: 30px;
+    border-color: rgb(83, 109, 237);
+    background-color: rgb(179, 237, 247);
+    color: rgb(243, 32, 183);
+    border-radius: 30px;
+
+}
