@@ -1,0 +1,28 @@
+{"EMPLOYEE":
+    [
+        {
+            "empId": 1,
+            "name":"Clark",
+            "dept":"Sales",
+            "address":"Moscow, Russia"
+        },
+        {
+            "empId": 2,
+            "name":"Dave",
+            "dept":"Accounting",
+            "address":"S-Peterburg, Russia"
+        },
+        {
+            "empId": 3,
+            "name":"Ava",
+            "dept":"Sales",
+            "address":"Kazan, Russia"
+        },
+        {
+            "empId": 4,
+            "name":"Baiden",
+            "dept":"Government",
+            "address":"Washington, USA"
+        }
+    ]   
+}
